@@ -2,6 +2,10 @@
   "home": {
     "title": "Bienvenido",
     "content": "Bienvenido al ACME Learning Center."
+  },
+  "about": {
+    "title": "Acerca de Nosotros",
+    "content": "ACME Learning Center es una Plataforma de Educación, parte de la Corporación ACME."
   }
 
 }
