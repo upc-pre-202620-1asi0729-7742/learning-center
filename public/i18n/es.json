@@ -6,6 +6,11 @@
   "about": {
     "title": "Acerca de Nosotros",
     "content": "ACME Learning Center es una Plataforma de Educación, parte de la Corporación ACME."
+  },
+  "page-not-found": {
+    "title": "Página no encontrada",
+    "content": "La ruta <strong>{{ invalid_path }}</strong> no es válida.",
+    "go-home": "Ir al Inicio"
   }
 
 }
